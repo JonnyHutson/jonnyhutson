@@ -9,7 +9,7 @@
 
 - ✉️ You can contact me at **jonathanh30@googlemail.com**
 
-- Development duties encompass **.NET MVC, Android/iOS development, PLSQL**
+- Current development duties encompass **.NET MVC, Android/iOS development, PLSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
